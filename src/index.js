@@ -1,5 +1,5 @@
 const {app} = require('./app')
 
-app.listen(process.env.PORT, '192.168.100.107',() => {
+app.listen(process.env.PORT,() => {
     console.log('server is up')
 })

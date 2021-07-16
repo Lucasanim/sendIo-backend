@@ -1,0 +1,1 @@
+This project is a backend application for a real-time chat application.
